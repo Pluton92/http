@@ -1,0 +1,6 @@
+{
+	"watchFolder": "./",
+	"outputFolder": "./",
+	"maineFile": "styles.less",
+	"sourceMap": true
+}
